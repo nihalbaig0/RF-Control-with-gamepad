@@ -27,15 +27,15 @@ Upload the **nrf24_receiver.ino** to the Arduino Uno connected to the Laptop and
 
 !["Working Diagram"](./Pictures/RF_Module.jpg )
 
-## Connection Diagram of Arduino Nano with nrf24l01
+### Connection Diagram of Arduino Nano with nrf24l01
 
 !["nrf24 connection"](./Pictures/nrf24_sketch.jpg )
 
-## Connection Diagram of Potentiometer
+### Connection Diagram of Potentiometer
 
 !["Potentiometer connection"](./Pictures/Potentiometer.jpg )
 
-## Project Picture
+### Project Picture
 
 !["Transmitter Connection"](./Pictures/transmitter_connection.jpg )
 
